@@ -413,6 +413,12 @@ table tr td{
 }
 }
 @media screen and (min-width: 375px) {
+	section{
+		font-family: French Script MT;
+	}
+	footer{
+		font-family: French Script MT;
+	}
  .one__text{
 	position: absolute;
 	color: var(--background);
